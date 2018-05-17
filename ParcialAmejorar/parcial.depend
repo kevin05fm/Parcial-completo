@@ -1,0 +1,83 @@
+# depslib dependency file v1.0
+1525995490 source:d:\kf\parcial\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"cliente.h"
+	"utn.h"
+	"publicaciones.h"
+
+1525995490 d:\kf\parcial\cliente.h
+
+1524691840 d:\kf\parcial\utn.h
+
+1525997827 source:d:\kf\parcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"cliente.h"
+	"utn.h"
+	"publicaciones.h"
+
+1524691840 source:d:\kf\parcial\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"utn.h"
+
+1525997827 d:\kf\parcial\publicaciones.h
+	"cliente.h"
+
+1525997827 source:d:\kf\parcial\publicaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"publicaciones.h"
+	"utn.h"
+	"cliente.h"
+
+1526415274 source:e:\programacion\parcialamejorar\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"cliente.h"
+	"utn.h"
+	"publicaciones.h"
+
+1525995492 e:\programacion\parcialamejorar\cliente.h
+
+1524691840 e:\programacion\parcialamejorar\utn.h
+
+1526587022 e:\programacion\parcialamejorar\publicaciones.h
+	"cliente.h"
+
+1526587150 source:e:\programacion\parcialamejorar\publicaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"publicaciones.h"
+	"utn.h"
+	"cliente.h"
+
+1524691840 source:e:\programacion\parcialamejorar\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"utn.h"
+
+1526587030 source:e:\programacion\parcialamejorar\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"cliente.h"
+	"utn.h"
+	"publicaciones.h"
+
